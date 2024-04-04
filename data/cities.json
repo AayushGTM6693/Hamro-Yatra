@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "9b69",
+      "cityName": "Neoneli",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-03-20T10:21:00.159Z",
+      "notes": "",
+      "position": {
+        "lat": "40.036946539464985",
+        "lng": "8.94115447998047"
+      }
+    },
+    {
+      "id": "dc0a",
+      "cityName": "Ortueri",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-03-20T10:21:03.126Z",
+      "notes": "",
+      "position": {
+        "lat": "40.02695719908057",
+        "lng": "8.961925506591799"
+      }
+    },
+    {
+      "id": "a47d",
+      "cityName": "Ortueri",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-04-04T15:03:38.458Z",
+      "notes": "",
+      "position": {
+        "lat": "40.01394139351358",
+        "lng": "8.979263305664064"
+      }
+    }
+  ]
+}
